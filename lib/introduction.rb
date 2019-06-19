@@ -1,4 +1,4 @@
-name = "dan"
+name = "Thomas"
 language="Python"
 
 def introduction(name)
