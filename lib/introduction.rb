@@ -1,4 +1,4 @@
-name = "Thomas"
+var name = "Thomas"
 language="Python"
 
 def introduction(name)
